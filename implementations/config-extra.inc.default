@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# make script fail on first error
+set -e
+
+# Paths to implementation binaries
+HYBRID_QUANTUM_PATH=
+LLVM_PATH=
+VENV_PATH=
